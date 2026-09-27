@@ -1,12 +1,12 @@
 {
-  "CurrentModVersion": 3,
-  "ModMenuVersion": 2.1,
-  "DefaultPathLists": ["skdrpmod", "skdrpmod2", "mountainiomod", "betamariomod", "accuratemod","markusmakermod","fireio64mod","minecraftmod","themysterymod"],
-  "DataJSONVersion": 3,
-  "ModMenuTheme": "Default",
-  "ShowMenuCredit": "True",
-  "ShowMenuValidator": "True",
-  "CheckForSkinsMoreThan14": "False",
-  "ShowAnimationsTab": "True",
-  "AllowStringAssets": "True"
+	"CurrentModVersion": 3,
+	"ModMenuVersion": 3,
+	"DefaultPathLists": ["skdrpmod", "skdrpmod2", "mountainiomod", "betamariomod", "accuratemod","markusmakermod","fireio64mod","minecraftmod","themysterymod"],
+	"DataJSONVersion": 3,
+	"ModMenuTheme": "V2",
+	"ShowMenuCredit": "True",
+	"ShowMenuValidator": "True",
+	"CheckForSkinsMoreThan14": "False",
+	"ShowAnimationsTab": "True",
+	"AllowStringAssets": "True"
 }
