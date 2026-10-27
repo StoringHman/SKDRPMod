@@ -8,5 +8,7 @@
 	"ShowMenuValidator": "True",
 	"CheckForSkinsMoreThan14": "False",
 	"ShowAnimationsTab": "True",
-	"AllowStringAssets": "True"
+	"AllowStringAssets": "True",
+	"AllowV2Format": "False",
+	"AllowAssetLoading": "True",
 }
