@@ -10,5 +10,5 @@
 	"ShowAnimationsTab": "True",
 	"AllowStringAssets": "True",
 	"AllowV2Format": "False",
-	"AllowAssetLoading": "True",
+	"AllowAssetLoading": "True"
 }
