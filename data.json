@@ -2,7 +2,6 @@
 	"CurrentModVersion": 3,
 	"ModMenuVersion": 3,
 	"DefaultPathLists": ["skdrpmod", "skdrpmod2", "mountainiomod", "betamariomod", "accuratemod","markusmakermod","fireio64mod","minecraftmod","themysterymod"],
-	"DataJSONVersion": 3,
 	"ModMenuTheme": "V2",
 	"ShowMenuCredit": "True",
 	"ShowMenuValidator": "True",
